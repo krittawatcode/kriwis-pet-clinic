@@ -1,4 +1,4 @@
-package kritwis.springframework.kriwispetclinic;
+package kriwispetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

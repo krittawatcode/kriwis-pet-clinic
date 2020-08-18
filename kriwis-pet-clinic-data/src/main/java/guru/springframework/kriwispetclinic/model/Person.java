@@ -1,4 +1,4 @@
-package kritwis.springframework.kriwispetclinic.model;
+package guru.springframework.kriwispetclinic.model;
 
 public class Person {
 

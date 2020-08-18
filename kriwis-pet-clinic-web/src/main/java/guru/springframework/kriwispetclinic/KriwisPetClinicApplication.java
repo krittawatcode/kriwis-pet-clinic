@@ -1,4 +1,4 @@
-package kritwis.springframework.kriwispetclinic;
+package guru.springframework.kriwispetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
